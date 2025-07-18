@@ -1,1 +1,1 @@
-# CS_basics
+This repo contains my practice code for B.Tech DSA
